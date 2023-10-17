@@ -6,11 +6,11 @@ from KNN2 import KNN
 
 st.set_page_config(
     page_title="App de Predicción con K-Nearest Neighbors",
-    page_icon="favicon.ico",  
+    page_icon="../img/favicon.ico",  
 )
 
-st.title("Predicción de Riesgo Cardiovascular con K-Nearest Neighbors")
-st.sidebar.image("logo.png")
+st.title("Predicción de Riesgo Cardiovascular")
+st.sidebar.image("../img/logo.png")
 st.sidebar.header("Descripcion del Dataset")
 #st.sidebar.subheader("Cargar Datos")
 
