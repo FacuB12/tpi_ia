@@ -1,0 +1,19 @@
+titulos de columnas del dataset
+
+id
+edad
+educacion
+sexo
+fumador
+cigarrillos por dia
+toma medicamentos pre art
+derrame celebral
+hipertenso
+diabetes
+colesterol total
+presion arterial sistolica
+presion arterial diastolica
+imc
+frecuencia cardiaca
+nivel glucosa
+prediccion
