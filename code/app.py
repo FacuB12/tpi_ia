@@ -45,9 +45,9 @@ if df is not None:
     st.sidebar.write("")
     st.sidebar.write("")
     st.sidebar.write("Valores del algoritmo implementado:")
-    st.sidebar.write("Valor de k:", 21)
+    st.sidebar.write("Valor de k:", 9)
     st.sidebar.write("Distancia utilizada: Manhattan")
-    knn = KNN(k=21)
+    knn = KNN(k=9)
     knn.entrenar(matriz_atributos_entrenamiento, matriz_clases_entrenamiento)
     Etiquetas_Predichas = knn.predecir(matriz_atributos_test,2)
     
